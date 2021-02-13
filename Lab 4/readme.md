@@ -27,7 +27,36 @@ shade or variation of #ab00ff, pure violet. I don't think #ab00ff would be the p
 
 * Complete the logic gate exercises word doc and upload to this folder.
 
-<h5> * Logic Gate Exercises have been uploaded. I do not have microsoft word so the work was completed with my pc's basic computer text edit program. </h5> 
+<h5> * Logic Gate Exercises have been uploaded. I do not have microsoft word so the work was completed with my pc's basic computer text edit program but every time it opens up it reformats in a way the work can't be read but I still need/want credit for it so I uploaded a screenshot of my work with completed as well as uploaded my answers here. I know it's not what you asked for but I cannot use microsoft word. 
+
+Naythan Jefferson
+IT1025
+Logic Gates Exercises 1 - Lab 4
+2/13/21 6:06pm
+
+* 1 
+ 
+- ABCY
+- 0010
+- 1100
+- 0111
+- 1000
+
+* 2
+
+- ABCDY
+- 10010
+- 01100
+- 00111
+- 11100
+
+* 3
+
+- ABCDEY
+- 001000
+- 011111
+- 100000
+- 110011
 
 ## IEEE - Ethically Aligned Design
 * Explain the purpose of IEEE and the importance of ethics in device design
