@@ -55,3 +55,4 @@ Protocol - Set of rules to allow devices to communicate
 # Conclusion
 Summarize how this lab was useful to you and what you learnt that really interested you!
 
+<h6>I thought this lab was intersting because I had to create a flowchart that helped me understand the "thinking" process of a computer and how data is sent and recieved. </h6>
