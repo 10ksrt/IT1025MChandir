@@ -2,9 +2,9 @@
 
 # Internet Programming
 * Upload screenshots of your html, css and result
-
+- Uploaded
 * Upload JSON activity
-
+ - Uploaded
 * Who was Tim Berners-Lee and why did he create the W3C?
 
 - W3C also engages in education and outreach, develops software and serves as an open forum for discussion about the Web. Tim Berners-Lee invented the World Wide Web in 1989. He is the co-founder and CTO of Inrupt.com, a tech start-up which uses, promotes and helps develop the open source Solid platform.
@@ -30,3 +30,4 @@
 - JSON has a more compact style than XML, and it is often more readable. The lightweight approach of JSON can make significant improvements in RESTful APIs working with complex systems. Faster: The XML software parsing process can take a long time.
 
 # Conclusion
+- In conclusion lab 12 helps students understand how data is trasported via XML and Html as well as help students understand how to complile complex data with their code using JSON. The lab also shows user how to dress up a webpage by coding with HTML and CSS for future careers in web design. 
