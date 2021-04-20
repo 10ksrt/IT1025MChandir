@@ -34,6 +34,7 @@ Predictive Analytics, NoSQL Databases, Knowledge Discovery Tools, Stream Analyti
 RDBMS  is a common type of database that stores data in tables, so it can be used in relation to other stored datasets. SQL is the language used for communicating with data in an RDBMS. Or in the plain term, RDBMS is a book and SQL is the language being used in the book. SQL is used to communicate with a database. According to ANSI (American National Standards Institute), it is the standard language for relational database management systems. 
 
 * Pick two related tables from the diagram provided in the "module - SQL" and explain the relationship between them
+* The empoleeyes are placeing orders for customers where that data is then trasported from the ORDERS then to ORDER DETAILS.
 a) which is the primary key?
 b) which is the foreign key?
 * Using W3Schools, try out a 
@@ -44,3 +45,5 @@ and upload screenshots of the results.
   
 # Conclusion
 Include what you have learnt from this lab
+
+from this lab I have learned that RDBMS  is a common type of database that stores data in tables, so it can be used in relation to other stored datasets.
